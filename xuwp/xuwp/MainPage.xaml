@@ -6,9 +6,12 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-    	<Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <Button Text="Rider" />
+        <Button Text="Driver"/>
+        <Label Text="Choose Rider or Driver" 
+           HorizontalOptions="Center" />
+
+
     </StackLayout>
 
 </ContentPage>
